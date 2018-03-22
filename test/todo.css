@@ -1,0 +1,39 @@
+#tasks{
+  font-family: Arial;
+  background-color: #BBB;
+  width: 400px;
+  margin: 50px auto;
+  list-style: none;
+  padding: 0;
+}
+#tasks li:after,
+#tasks hr{
+  display: block;
+  width: 100%;
+  clear: both;
+}
+#tasks h3{
+  float: left;
+}
+#tasks li {
+  border-bottom: 1px solid white;
+  padding: 20px;
+}
+#tasks input{
+  display: block; float: left;
+  margin-top: 20px;
+}
+
+button{
+  float: right;
+}
+
+#addNew{
+    font-family: Arial;
+    width: 400px;
+    margin: 50px auto;
+    background: #a8a8a8;
+}
+#addNew input{
+  margin: 5px;
+}

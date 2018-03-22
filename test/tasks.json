@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "title" : "Learn Javascript Basics",
+      "done"  : true,
+      "date"  : "2018-05-05"
+    },
+    {
+      "title" : "Learn Javascript DOM",
+      "done"  : true,
+      "date"  : "2018-06-05"
+    },
+    {
+      "title" : "Learn NodeJS technology",
+      "done"  : false,
+      "date"  : "2018-07-05"
+    }
+  ]
+}
